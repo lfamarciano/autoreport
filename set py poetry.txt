@@ -1,0 +1,1 @@
+set PATH=%PATH%;%USERPROFILE%\AppData\Roaming\pypoetry\venv\Scripts
